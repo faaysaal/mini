@@ -224,6 +224,10 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.header-menu nav li a {
+  padding: 10px 0;
+  font-weight: 700;
+}
   /*** Agency ***/
   .sec-padding {
     padding: 30px 0;
